@@ -1,0 +1,100 @@
+#2 Word Sentences
+He sings: [ROOT [S [NP [PRP He]] [VP [VBZ sings]]]]
+I run: [ROOT [S [NP [PRP I]] [VP [VB run]]]]
+We eat: [ROOT [S [NP [PRP We]] [VP [VB eat]]]]
+You sleep: [ROOT [S [NP [PRP You]] [VP [VB sleep]]]]
+It works: [ROOT [S [NP [PRP It]] [VP [VBZ works]]]]
+He talks: [ROOT [S [NP [PRP He]] [VP [VBZ talks]]]]
+She reads: [ROOT [S [NP [PRP She]] [VP [VBZ reads]]]]
+
+#3 Word Sentences
+I love you: [ROOT [S [NP [PRP I]] [VP [VBP love] [NP [PRP you]]]]]
+She eats cake: [ROOT [S [NP [PRP She]] [VP [VBZ eats] [NP [NN cake]]]]]
+They run fast: [ROOT [S [NP [PRP They]] [VP [VBP run] [ADJP [RB fast]]]]]
+He drives car: [ROOT [S [NP [PRP He]] [VP [VBZ drives] [NP [NN car]]]]]
+Dogs chase cats: [ROOT [S [NP [NNS Dogs]] [VP [VBP chase] [NP [NNS cats]]]]]
+We play games: [ROOT [S [NP [PRP We]] [VP [VBP play] [NP [NNS games]]]]]
+I drink water: [ROOT [S [NP [PRP I]] [VP [VBP drink] [NP [NN water]]]]]
+Birds fly high: [ROOT [S [NP [NNS Birds]] [VP [VB fly] [ADVP [RB high]]]]]
+She reads book: [ROOT [S [NP [PRP She]] [VP [VBZ reads] [NP [NN book]]]]]
+He sings song: [ROOT [S [NP [PRP He]] [VP [VBZ sings] [NP [NN song]]]]]
+She sings beautifully: [ROOT [S [NP [PRP She]] [VP [VBZ sings] [ADVP [RB beautifully]]]]]
+He walks slowly: [ROOT [S [NP [PRP He]] [VP [VBZ walks] [ADVP [RB slowly]]]]]
+They run quickly: [ROOT [S [NP [PRP They]] [VP [VBP run] [ADVP [RB quickly]]]]]
+
+#4 Word Sentences
+The sun shines brightly: [ROOT [S [NP [DT The] [NN sun]] [VP [VBZ shines] [ADVP [RB brightly]]]]]
+The rain pours heavily: [ROOT [S [NP [DT The] [NN rain]] [VP [VBZ pours] [ADVP [RB heavily]]]]]
+I love pizza too: [ROOT [S [NP [PRP I]] [VP [VBP love] [NP [NN pizza]] [ADVP [RB too]]]]]
+The bird flies high: [ROOT [S [NP [DT The] [NN bird]] [VP [VBZ flies] [ADVP [JJ high]]]]]
+The car drives fast: [ROOT [S [NP [DT The] [NN car]] [VP [VBZ drives] [ADVP [RB fast]]]]]
+He is eating lunch: [ROOT [S [NP [PRP He]] [VP [VBZ is] [VP [VBG eating] [NP [NN lunch]]]]]]
+She bought red shoes: [ROOT [S [NP [PRP She]] [VP [VBD bought] [NP [JJ red] [NNS shoes]]]]]
+They run every morning: [ROOT [S [NP [PRP They]] [VP [VBP run] [NP [DT every] [NN morning]]]]]
+The cat chased a mouse: [ROOT [S [NP [DT The] [NN cat]] [VP [VBD chased] [NP [DT a] [NN mouse]]]]]
+We saw a rainbow: [ROOT [S [NP [PRP We]] [VP [VBD saw] [NP [DT a] [NN rainbow]]]]]
+
+#5 Word Sentences
+The cat chased the mouse: [ROOT [S [NP [DT The] [NN cat]] [VP [VBD chased] [NP [DT the] [NN mouse]]]]]
+She sings in choir practice: [ROOT [S [NP She] [VP [VBZ sings] [PP [IN in] [NP [NN choir] [NN practice]]]]]]
+We went to the beach: [ROOT [S [NP We] [VP [VBD went] [PP [TO to] [NP [DT the] [NN beach]]]]]]]
+He gave her the gift: [ROOT [S [NP He] [VP [VBD gave] [NP [PRP her] [DT the] [NN gift]]]]]]
+They found the lost dog: [ROOT [S [NP They] [VP [VBD found] [NP [DT the] [JJ lost] [NN dog]]]]]]
+He ate a big pizza: [ROOT [S [NP He] [VP [VBD ate] [NP [DT a] [JJ big] [NN pizza]]]]]]
+The black cat climbs trees: [ROOT [S [NP [DT The] [JJ black] [NN cat]] [VP [VBZ climbs] [NNS trees]]]]]
+They drink cold lemonade outside: [ROOT [S [NP They] [VP [VB drink] [NP [JJ cold] [NN lemonade]] [PP [IN outside]]]]]]
+I play guitar every day: [ROOT [S [NP I] [VP [VBP play] [NP [NN guitar]] [ADVP [DT every] [NN day]]]]]]
+
+#6 Word Sentences
+The book is on the table: [ROOT [S [NP [DT The] [NN book]] [VP [VBZ is] [PP [IN on] [NP [DT the] [NN table]]]]]]]
+The sun sets in the west: [ROOT [S [NP [DT The] [NN sun]] [VP [VBZ sets] [PP [IN in] [NP [DT the] [NN west]]]]]]]
+Cats love chasing small moving things: [ROOT [S [NP [NNS Cats]] [VP [VBP love] [VP [VBG chasing] [NP [JJ small] [JJ moving] [NNS things]]]]]]]
+Raindrops fall gently on green leaves: [ROOT [S [NP [NNS Raindrops]] [VP [VBP fall] [ADVP [RB gently]] [PP [IN on] [NP [JJ green] [NNS leaves]]]]]]]
+She gave her friend the book: [ROOT [S [NP She] [VP [VBD gave] [NP [PRP$ her] [NN friend] [DT the] [NN book]]]]]]
+The cat and the dog played: [ROOT [S [NP [DT The] [NN cat] [CC and] [DT the] [NN dog]] [VP [VBD played]]]]]
+He always drinks coffee after breakfast: [ROOT [S [NP He] [VP [RB always] [VBZ drinks] [NP [NN coffee]] [PP [IN after] [NP [NN breakfast]]]]]]]
+My parents are traveling to Europe: [ROOT [S [NP [PRP$ My] [NNS parents]] [VP [VBP are] [VP [VBG traveling] [PP [TO to] [NP [NNP Europe]]]]]]]
+
+#7 Word Sentences
+The tall man in the hat is my uncle: [ROOT [S [NP [DT The] [JJ tall] [NN man] [PP [IN in] [DT the] [NN hat]]] [VP [VBZ is] [NP [PRP$ my] [NN uncle]]]]]
+She played the piano beautifully in the concert: [ROOT [S [NP She] [VP [VBD played] [NP [DT the] [NN piano]] [ADVP [RB beautifully]] [PP [IN in] [DT the] [NN concert]]]]]]
+I will study for the exam tomorrow: [ROOT [S [NP I] [VP [MD will] [VP [VB study] [PP [IN for] [DT the] [NN exam]] [NP [NN tomorrow]]]]]]]
+They bought a house in the countryside: [ROOT [S [NP They] [VP [VBD bought] [NP [DT a] [NN house]] [PP [IN in] [DT the] [NN countryside]]]]]]
+The children are laughing and playing in the park: [ROOT [S [NP [DT The] [NNS children]] [VP [VBP are] [VP [VBG laughing] [CC and] [VBG playing]] [PP [IN in] [DT the] [NN park]]]]]]
+She couldn't remember the name of the song: [ROOT [S [NP She] [VP [MD could] [RB n't] [VP [VB remember] [NP [DT the] [NN name]] [PP [IN of] [DT the] [NN song]]]]]]]
+
+#Sentences with error in tokenization
+Smoking is good for your health:[ROOT [S [NP [NN Smoking]] [VP [VBZ is] [ADJP [JJ good] [PP [IN for] [NP [PRP your] [NN health]]]]]]]
+This is a no smoking zone: [ROOT [S [NP [DT This]] [VP [VBZ is] [NP [DT a] [JJ no] [NN smoking] [NN zone]]]]]]]
+She is smoking: [ROOT [S [NP [PRP She]] [VP [VBZ is] [VP [VBG smoking]]]]]
+They are smoking in a non smoking zone: [ROOT [S [NP [PRP They]] [VP [VBP are] [VP [VBG smoking] [PP [IN in] [NP [DT a] [JJ non] [NN smoking] [NN zone]]]]]]]
+The smoking fire was due to wet firewood: [ROOT [S [NP [DT The] [JJ smoking] [NN fire]] [VP [VBD was] [ADJP [JJ due] [PP [TO to] [NP [JJ wet] [NN firewood]]]]]]]
+
+#Sentences with longer Noun Phrase
+The blue and green striped shirt that I bought yesterday at the department store was on sale: [ROOT [S [NP [DT The] [JJ blue] [CC and] [JJ green] [VBN striped] [NN shirt] [SBAR [WHNP [WDT that]] [S [NP [PRP I]] [VP [VBD bought] [NP [NN yesterday] [PP [IN at] [NP [DT the] [NN department] [NN store]]]]]]] [VP [VBD was] [PP [IN on] [NP [NN sale]]]]]]]
+The large wooden table with the intricate carvings that my grandfather made by hand was the centerpiece of the dining room: [ROOT [S [NP [DT The] [JJ large] [JJ wooden] [NN table] [PP [IN with] [NP [DT the] [JJ intricate] [NNS carvings]]]] [SBAR [WHNP [WDT that]] [S [NP [PRP$ my] [NN grandfather]] [VP [VBD made] [PP [IN by] [NP [NN hand]]]]]] [VP [VBD was] [NP [DT the] [NN centerpiece] [PP [IN of] [NP [DT the] [NN dining] [NN room]]]]]]]
+The old red brick building at the end of the street has been abandoned for decades: [ROOT [S [NP [DT The] [JJ old] [JJ red] [NN brick] [NN building] [PP [IN at] [NP [DT the] [NN end] [PP [IN of] [NP [DT the] [NN street]]]]]] [VP [VBZ has] [VP [VBN been] [ADJP [JJ abandoned] [PP [IN for] [NP [NNS decades]]]]]]]]
+A large wooden ship with three masts and billowing white sails sailed across the calm blue ocean: [ROOT [S [NP [DT A] [JJ large] [JJ wooden] [NN ship] [PP [IN with] [NP [CD three] [NNS masts] [CC and] [JJ billowing] [JJ white] [NNS sails]]]] [VP [VBD sailed] [PP [IN across] [NP [DT the] [JJ calm] [JJ blue] [NN ocean]]]]]]
+The tall blonde woman in the red dress and high heels was the center of the attention at the party: [ROOT [S [NP [DT The] [JJ tall] [JJ blonde] [NN woman] [PP [IN in] [NP [DT the] [JJ red] [NN dress] [CC and] [JJ high] [NNS heels]]]] [VP [VBD was] [NP [DT the] [NN center] [PP [IN of] [NP [DT the] [NN attention] [PP [IN at] [NP [DT the] [NN party]]]]]]]]]
+The small white cottage with a thatched roof nestled among the rolling hills was a perfect hideaway: [ROOT [S [NP [DT The] [JJ small] [JJ white] [NN cottage] [PP [IN with] [NP [DT a] [JJ thatched] [NN roof]]]] [VP [VBD nestled] [PP [IN among] [NP [DT the] [VBG rolling] [NNS hills]]]] [VP [VBD was] [NP [DT a] [JJ perfect] [NN hideaway]]]]]
+The fluffy white clouds floated lazily across the bright blue sky: [ROOT [S [NP [DT The] [JJ fluffy] [JJ white] [NNS clouds]] [VP [VBD floated] [ADVP [RB lazily]] [PP [IN across] [NP [DT the] [JJ bright] [JJ blue] [NN sky]]]]]]
+
+#Sentences with complementizer phrase
+#She left before I could say goodbye: [ROOT [S [NP She] [VP left [SBAR before [S [NP I] [VP could [VP say [NP goodbye]]]]]]]]
+#We can go wherever you want to go: [ROOT [S [NP we] [VP can [VP go [SBAR wherever [S [NP you] [VP want [S [VP to [VP go]]]]]]]]]]
+#I hope you that will come to the party: [ROOT [S [NP I] [VP hope [SBAR that [S [NP you] [VP will [VP come [PP to [NP the party]]]]]]]]]
+#I wish I had a bigger house: [ROOT [S [NP I] [VP [VBP wish] [S [NP [PRP I]] [VP [VBP had] [NP [DT a] [JJR bigger] [NN house]]]]]]]
+#She is happy because she got a promotion: [ROOT [S [NP [PRP She]] [VP [VBZ is] [ADJP [JJ happy]]][SBAR [IN because] [S [NP [PRP she]] [VP [VBD got] [NP [DT a] [NN promotion]]]]]]]
+#Whether he will pass the exam is unknown: [ROOT [S [SBAR [IN Whether] [S [NP [PRP he]] [VP [MD will] [VP [VB pass] [NP [DT the] [NN exam]]]]]] [VP [VBZ is] [ADJP [JJ unknown]]]]]
+#The fact that you are not here makes me sad: [ROOT [S [NP [DT The] [NN fact]] [SBAR [IN that] [S [NP [PRP you]] [VP [VBP are] [RB not] [ADVP [RB here]]]]][VP [VBZ makes] [NP [PRP me]] [ADJP [JJ sad]]]]]
+#She said that she will come: [ROOT [S [NP [PRP She]] [VP [VBD said] [SBAR [IN that] [S [NP [PRP she]] [VP [MD will] [VP [VB come]]]]]]]]
+#The idea that she is cheating is ridiculous: [ROOT [S [NP [DT The] [NN idea]] [SBAR [IN that] [S [NP [PRP she]] [VP [VBZ is] [VP [VBG cheating]]]]][VP [VBZ is] [ADJP [JJ ridiculous]]]]]
+#The fact that she was late made me angry: [ROOT [S [NP [DT The] [NN fact]] [SBAR [IN that] [S [NP [PRP she]] [VP [VBD was] [ADJP [JJ late]]]]] [VP [VBD made] [NP [PRP me]] [ADJP [JJ angry]]]]]
+
+#Sentences with literary devices
+The sky was a canvas of orange and pink strokes: [ROOT [S [NP [DT The] [NN sky]] [VP [VBD was] [NP [DT a] [NN canvas] [PP [IN of] [NP [JJ orange] [CC and] [JJ pink] [NNS strokes]]]]]]]
+The silence was so thick that you could hear a pin drop: [ROOT [S [NP [DT The] [NN silence]] [VP [VBD was] [ADJP [RB so] [JJ thick]] [SBAR [IN that] [S [NP [PRP you]] [VP [MD could] [VP [VB hear] [NP [DT a] [NN pin] [NN drop]]]]]]]]]
+The flowers danced to the rhythm of the wind: [ROOT [S [NP [DT The] [NNS flowers]] [VP [VBD danced] [PP [TO to] [NP [DT the] [NN rhythm] [PP [IN of] [NP [DT the] [NN wind]]]]]]]]
+The wind whispered secrets to the trees: [ROOT [S [NP [DT The] [NN wind]] [VP [VBD whispered] [NP [NNS secrets]] [PP [TO to] [NP [DT the] [NNS trees]]]]]]
+The river flowed like a silver ribbon: [ROOT [S [NP [DT The] [NN river]] [VP [VBD flowed] [PP [IN like] [NP [DT a] [JJ silver] [NN ribbon]]]]]]
+The storm was a raging bull: [ROOT [S [NP [DT The] [NN storm]] [VP [VBD was] [NP [DT a] [JJ raging] [NN bull]]]]]
